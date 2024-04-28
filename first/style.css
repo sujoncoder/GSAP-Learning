@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gilroy;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#pink {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+#teal {
+  width: 100px;
+  height: 100px;
+  background-color: teal;
+  border-radius: 50%;
+}
+#lime {
+  width: 100px;
+  height: 100px;
+  background-color: lime;
+  border-radius: 50%;
+}
